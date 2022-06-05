@@ -1,0 +1,4 @@
+repository "MageTechContra@euftangan@cloud"
+  path "/"
+    br "/main"
+    co "/main"
